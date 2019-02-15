@@ -1,0 +1,5 @@
+DateTime==4.3
+Django==2.1.7
+psycopg2==2.7.7
+pytz==2018.9
+zope.interface==4.6.0
